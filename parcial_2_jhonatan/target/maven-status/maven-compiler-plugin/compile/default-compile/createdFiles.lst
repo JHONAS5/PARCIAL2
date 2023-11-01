@@ -1,0 +1,9 @@
+com\emergentes\utiles\ConexionDB.class
+com\emergentes\DAO\librosDAOimpl.class
+com\emergentes\DAO\librosDAO.class
+com\emergentes\modelo\categorias.class
+com\emergentes\DAO\categoriasDAO.class
+com\emergentes\modelo\libros.class
+com\emergentes\DAO\categoriasDAOimpl.class
+com\emergentes\controlador\InicioL.class
+com\emergentes\controlador\InicioC.class
